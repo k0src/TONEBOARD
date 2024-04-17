@@ -1,0 +1,7 @@
+; medium vertical slider
+type animated
+orientation vert
+frame_size 25, 26
+; extra space at: top, bottom, left, right
+padding 5, 2, 5, 3
+mouse_response stepped

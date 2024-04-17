@@ -1,0 +1,5 @@
+type slider
+frame_size 62, 352
+handle_rect 62, 385, 1, 354
+handle_range 40, 345
+orientation vertical

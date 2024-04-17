@@ -1,0 +1,7 @@
+; SynthEdit Skin Definition File
+;
+; Skin Set:	ToneBoard
+; Skin Item:	Panel Background
+; Files:	background.png
+
+tiled false
